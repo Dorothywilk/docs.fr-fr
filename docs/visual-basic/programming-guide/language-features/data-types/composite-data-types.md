@@ -31,7 +31,7 @@ Outre les blocs de Visual Basic de types de données élémentaires, vous pouvez
   
 ## <a name="tuples"></a>Tuples
 
-Un tuple est une structure léger qui contient deux ou plusieurs champs dont les types sont prédéfinis. Tuples sont pris en charge dans Visual Basic 2017. Tuples sont couramment utilisés pour retourner plusieurs valeurs à partir d’un seul appel de méthode sans avoir à passer des arguments par référence ou d’empaquetage des champs renvoyés dans une classe ou une structure plus lourdes. Consultez le [Tuples](tuples.md) rubrique pour plus d’informations sur les tuples.
+Un tuple est une structure légère qui contient deux ou plusieurs champs dont les types sont prédéfinis. Tuples sont pris en charge dans Visual Basic 2017. Tuples sont couramment utilisés pour retourner plusieurs valeurs à partir d’un seul appel de méthode sans avoir à passer des arguments par référence ou d’empaquetage des champs renvoyés dans une classe ou une structure plus lourdes. Consultez le [Tuples](tuples.md) rubrique pour plus d’informations sur les tuples.
 
 ## <a name="array-types"></a>Types de tableau  
  Il n’existe aucun type de données unique comprenant tous les tableaux. Le type de données d’une instance particulière d’un tableau est déterminé par le texte suivant :  
